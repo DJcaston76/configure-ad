@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://kirz.com/upload-img/Theme/Blog/microsoft-azure-cloud.jpg" alt="Microsoft Azure Logo"/>
+<img src="https://pbs.twimg.com/amplify_video_thumb/1356294621920374785/img/-hF6KUX9JHzVWhBL.jpg" alt="Microsoft Azure Logo"/>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
